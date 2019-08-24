@@ -1,2 +1,2 @@
 # transfer-learning
-Eye blindness Detection using pretrained deep learning models in keras.
+Eye blindness Detection using deep learning pre trained models in keras.
